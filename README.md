@@ -8,4 +8,4 @@
 - I'm not really sure how it goes
 - But it's sad, and it's sweet, and I knew it complete
 - When I wore a younger man's clothes"
-![Alt Text] (Screenshot 2026-06-22 214957.png)
+![Screenshot 2026-06-22 214957.png] (https://github.com/mike-sql/Walmart-Stores-Revenue-Analysis/blob/main/Screenshot%202026-06-22%20214957.png)
